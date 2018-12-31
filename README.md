@@ -6,3 +6,4 @@ Chia se ve cleancode
 2. https://techtalk.vn/hoc-cach-viet-code-sach-dep.html - hoc cach viet code sach
 3. https://techtalk.vn/toi-uu-hoa-code-voi-10-linting-tool-cho-css-va-javascript.html - linting tôl cho css va javascript, giup toi uu hoa code
 4. https://viblo.asia/p/clean-code-l0rvmx0QGyqA - tai sao can phai cleancode
+
